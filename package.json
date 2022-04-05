@@ -1,0 +1,25 @@
+{
+  "name": "pro-rady",
+  "version": "1.0.0",
+  "description": "is math pro-rady",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radytrainer/pro-rady.git"
+  },
+  "keywords": [
+    "rady"
+  ],
+  "author": "rady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radytrainer/pro-rady/issues"
+  },
+  "homepage": "https://github.com/radytrainer/pro-rady#readme"
+}
